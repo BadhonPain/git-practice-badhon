@@ -14,9 +14,10 @@ def divide(a, b):
     return a/b
 
     
-
-print(add(5,7))
-print(subtract(5,7))
-print(multiply(5, 7))
-print(divide(5, 7))
-print(divide(2, 0))
+if __name__ == "__main__":
+    print(add(5,7))
+    print(subtract(5,7))
+    print(multiply(5, 7))
+    print(divide(5, 7))
+    print(divide(2, 0))
+ 
