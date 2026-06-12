@@ -3,4 +3,6 @@
 Written by **Badhon Pain**
 ---
 
-This repo is just for a project submit and it doesn't signify anything
+This repository is intended solely for project submission purposes. It does not represent a standalone project, product, or ongoing development effort.
+---
+*Author~ Badhon Pain*
